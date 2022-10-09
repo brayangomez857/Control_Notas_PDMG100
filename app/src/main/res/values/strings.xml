@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Aplicacion_Notas</string>
+    <string name="Alejandro_Gomez">Alejandro Ruiz</string>
+    <string name="Nota1_A">0</string>
+    <string name="Resultado1">Resultado Alejandro Gomez</string>
+    <string name="Resultadotv">0</string>
+    <string name="Brayan_Gomez">Brayan Gomez</string>
+    <string name="Nota1_B">0</string>
+    <string name="Resultado2">Resultado Brayan Gomez</string>
+    <string name="Resultadotv2">0</string>
+    <string name="Carlos_Garcia">Carlos Garcia</string>
+    <string name="Resultado3">Resultado Carlos Garcia</string>
+    <string name="David_Rua">David Rua</string>
+    <string name="Resultado4">Resultado David Rua</string>
+</resources>
